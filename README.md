@@ -5,7 +5,7 @@
 # Google-Colab-Remove-Unwanted-Video-Audios,Subtitles-Using-Cloning-Method
 ### Step 1 - Notedown required stream numbers from cell 1 (media info cell)
 ### Step 2
-   ![Alt Text](https://i.ibb.co/3mdYMJh/clone-media-with-selective-track.png)
+   ![Alt Text](https://i.ibb.co/BKLrwx9/clone-media-with-selective-track.png)
 
 ```
 #@title <font color ="yellow">`⬅`</font><font color="#01c968">`Clone Media with selective Stream Track(Audio,Subtitles)`</font>
