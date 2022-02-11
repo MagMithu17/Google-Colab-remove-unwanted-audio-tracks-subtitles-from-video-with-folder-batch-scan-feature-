@@ -1,8 +1,11 @@
-<a href="https://colab.research.google.com/github/MagMithu17/Google-Colab-remove-unwanted-audio-tracks-subtitles-from-video-with-folder-batch-scan-feature-/blob/main/clone%20video%2C%20audios%2C%20subtiles%20using%20seclective%20tracks.ipynb?authuser=1#">
+<a href="https://colab.research.google.com/github/MagMithu17/Google-Colab-remove-unwanted-audio-tracks-subtitles-from-video-with-folder-batch-scan-feature-/blob/main/Clone_Media_with_selective_Stream_Track(Video%2CAudio%2CSubtitles).ipynb?authuser=1">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a><br>
 
 # Google-Colab-Remove-Unwanted-Video-Audios,Subtitles-Using-Cloning-Method
+### Step 1 - Notedown required stream numbers from cell 1 (media info cell)
+### Step 2
+   ![Alt Text](https://i.ibb.co/3mdYMJh/clone-media-with-selective-track.png)
 
 ```
 #@title <font color ="yellow">`⬅`</font><font color="#01c968">`Clone Media with selective Stream Track(Audio,Subtitles)`</font>
